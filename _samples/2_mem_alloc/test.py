@@ -1,0 +1,1 @@
+variable123 = int(input())   
